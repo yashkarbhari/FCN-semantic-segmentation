@@ -1,1 +1,1 @@
-# FCN-semantic-segmentation
+# FCN-Semantic-Segmentation
